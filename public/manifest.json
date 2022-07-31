@@ -1,9 +1,9 @@
-"name": "budget_Tracker"
-"short_name" :"Budget"
-"theme_color":"#ffffff"
-"background_color": "#01579b"
-"start_url": "../index.html"
-"display": "standalone"
+"name": "budget_Tracker",
+"short_name" :"Budget",
+"theme_color":"#ffffff",
+"background_color": "#01579b",
+"start_url": "../index.html",
+"display": "standalone",
 "icons": [
 {
     "src":"public/icons/icon-72x72.png",
